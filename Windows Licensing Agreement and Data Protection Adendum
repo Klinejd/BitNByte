@@ -1,0 +1,37 @@
+#Windows Licensing Agreement and Data Protection Adendum
+##I read them, so you don't have to.
+
+We understand that Client Access Licenses (CAL) are there to identify a user with a product, but when was the last time you read what you agreed to in exchange for one?  
+
+Microsoft has 10 main groups of server access based on the plan you buy (CAL and ML Equivalency Licenses, 2021), but each of them have the same licensing agreement (For all Online Services, 2021). 
+
+The licensing agreement (LA) has a few things of interest to note. For example, your LA applies to what you bought at the time you bought it. If something new is added to your product, it comes with its own LA.  
+
+You know those Window’s pop ups? You agreed to them. They can contact you via your OS, your email, any client software of theirs, or through any of their websites. 
+
+Let’s say, for example, you use Microsoft Teams to encourage someone else to give out or sell malware. You’d be suspended, but only for a “reasonable” amount of time, and with plenty of warning before the suspension. 
+
+You not allowed to hook multiple computers up to one that has the License (this is called multiplexing); each computer needs to be accounted for if it’s using Microsoft Services. 
+
+If someone is seriously injured by a Microsoft product, you’ve agreed to defend Microsoft, and you can’t make them pay for any damages, attorneys, or legal fees. 
+
+Their software is allowed to check and send verification to Microsoft about the status and validity of your License. These apps also “collect Diagnostic Data … about the use and performance of the Apps, which may be transmitted to Microsoft.” See the breakdown of the DPA below for more information on this. 
+
+You’re not allowed to work around hardware issues. If your computer can’t run a Microsoft product, but you set it up so you actually can, you’re going against the agreement. 
+
+If you make a product that could be considered a competitor to one of Microsoft’s, and you have a current Microsoft license, they’re allowed to practice something called “competitive benchmarking” on your product. This is when someone gives two products or devices the same task and determine which one is “stronger”, faster, or better at performing the task. So they can test your product against theirs to see which is better. This section is particularly interesting because of the possible implications it could lead to, like giving Microsoft the ability to find competitors to buy out early in order to sustain their monopoly. If you refuse to let them benchmark against your product, you can have your License rescinded.  
+
+Here are a few more nuggets I scrounged out of the legal jargon: 
+
+-Subscriptions Licenses cannot be given to other people. You bought it in your name. 
+-You have to uninstall their software when your license ends or they will disable it for you. 
+-No Microsoft Online Service is for medical use.  
+-You can use Microsoft’s fonts (and your printer can too!) as long as you’ve got a valid license. 
+-If the government for where you live makes Microsoft take away your license, they’ll reimburse you. 
+-If you give Microsoft any feedback, they own the copyrights to what you wrote. It’s not yours anymore. 
+-The U.S. government gets free Microsoft.  
+-Products are priced monthly, and you’ll be billed automatically to renew unless you cancel a month ahead of your LA ending. 
+
+But that’s not all: There’s a DPA (Data Protection Addendum), which applies to only some of Microsoft’s products and is the final say when there are conflicts or inconsistencies between it and the Licensing Agreement (Licensing Terms and Documentation, 2021). 
+
+First, lets define all the different types of data:
