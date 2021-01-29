@@ -8,7 +8,7 @@ Blog Posts:
 
 1. Windows
       
-[Windows Licensing Agreement and Data Protection Addendum](Windows_Licensing_Agreement_and_Data_Protection_Adendum.md)
+[Windows Licensing Agreement and Data Protection Addendum](Windows_Licensing_Agreement_and_Data_Protection_Adendum)
 
 2. Networking
 
