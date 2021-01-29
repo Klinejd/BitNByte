@@ -7,7 +7,7 @@ find me on Twitter at @Jullian_Kline
 Blog Posts:
 
 1. Windows
-      [Windows Licensing Agreement and Data Protection Addendum](url)
+      [Windows Licensing Agreement and Data Protection Addendum](https://klinejd.github.io/BitNByte/Windows Licensing Agreement and Data Protection Adendum)
 2. Networking
 3. Hardware
     -routers
